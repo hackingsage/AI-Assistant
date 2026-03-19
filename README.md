@@ -62,7 +62,7 @@ Requires Node.js v18+.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hackingsage/AI-Assistant.git
    cd AI-Assistant-main
    ```
 2. Install dependencies:
