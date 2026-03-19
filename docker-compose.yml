@@ -1,0 +1,11 @@
+services:
+  aria-assistant:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data
+      - ./public:/app/public # Optional: allows UI changes without rebuilding
+    environment:
+      - PORT=3000
+    restart: always
