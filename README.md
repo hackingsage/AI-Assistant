@@ -16,13 +16,13 @@ ARIA is a highly customizable, real-time AI assistant that acts as a secure fron
 
 ## ✨ Key Features
 
-*   **⚡ Real-time AI Chat**: Blazing fast WebSocket-powered streaming for a "live typing" experience.
-*   **🛠️ Custom Skills**: Write JavaScript snippets directly in the UI. ARIA can autonomously trigger these skills based on your conversation.
-*   **⏱️ Automations**: Schedule cron-based tasks (e.g., Daily Summaries at 9 AM) that run securely in the background.
-*   **🧠 Persistent Memory**: ARIA remembers facts, preferences, and past context using a dedicated long-term memory system.
-*   **💾 Local & Secure Data**: Everything (conversations, memories, skills) lives locally in a SQLite database.
-*   **📊 Usage Tracking**: Monitor your OpenRouter token usage and costs directly from the dashboard.
-*   **🎨 Rich Media Support**: Renders Markdown, syntax-highlighted code blocks, and complex math equations via LaTeX.
+*   **Real-time AI Chat**: Blazing fast WebSocket-powered streaming for a "live typing" experience.
+*   **Custom Skills**: Write JavaScript snippets directly in the UI. ARIA can autonomously trigger these skills based on your conversation.
+*   **Automations**: Schedule cron-based tasks (e.g., Daily Summaries at 9 AM) that run securely in the background.
+*   **Persistent Memory**: ARIA remembers facts, preferences, and past context using a dedicated long-term memory system.
+*   **Local & Secure Data**: Everything (conversations, memories, skills) lives locally in a SQLite database.
+*   **Usage Tracking**: Monitor your OpenRouter token usage and costs directly from the dashboard.
+*   **Rich Media Support**: Renders Markdown, syntax-highlighted code blocks, and complex math equations via LaTeX.
 
 ---
 
@@ -81,11 +81,11 @@ Requires Node.js v18+.
 
 Once ARIA is running:
 
-1. **🔑 API Key**: Click on the **Settings** icon (gear) in the bottom left corner. Enter your OpenRouter API key and click Save.
-2. **🤖 Choose Model**: Select your preferred AI model (e.g., Claude 3.5 Sonnet, GPT-4o) from the dropdown in the sidebar.
-3. **💬 Chat**: Start typing! ARIA will respond instantly.
-4. **🧩 Create Skills**: Navigate to the **Skills** tab to write custom JavaScript functions that ARIA can execute. *Example: A skill that fetches the current weather for a city.*
-5. **⏰ Set Automations**: Go to the **Automations** tab to set up cron schedules that trigger specific skills or generalized prompts automatically.
+1. **API Key**: Click on the **Settings** icon (gear) in the bottom left corner. Enter your OpenRouter API key and click Save.
+2. **Choose Model**: Select your preferred AI model (e.g., Claude 3.5 Sonnet, GPT-4o) from the dropdown in the sidebar.
+3. **Chat**: Start typing! ARIA will respond instantly.
+4. **Create Skills**: Navigate to the **Skills** tab to write custom JavaScript functions that ARIA can execute. *Example: A skill that fetches the current weather for a city.*
+5. **Set Automations**: Go to the **Automations** tab to set up cron schedules that trigger specific skills or generalized prompts automatically.
 
 ---
 
