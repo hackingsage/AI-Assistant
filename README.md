@@ -48,7 +48,7 @@ The easiest way to run ARIA while keeping your system clean and ensuring data pe
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hackingsage/AI-Assistant.git
    cd AI-Assistant-main
    ```
 2. Start the container:
