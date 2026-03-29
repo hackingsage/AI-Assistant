@@ -24,6 +24,8 @@ ARIA is a highly customizable, real-time AI assistant that acts as a secure fron
 *   **Local & Secure Data**: Everything (conversations, memories, skills) lives locally in a SQLite database.
 *   **Usage Tracking**: Monitor your OpenRouter token usage and costs directly from the dashboard.
 *   **Rich Media Support**: Renders Markdown, syntax-highlighted code blocks, and complex math equations via LaTeX.
+*   **Accessing Local Computer**: The assistant has access to your whole computer as per your needs (just like openclaw)
+*   **Web Search**: Unlike an average llm model, this assistant can do web search.
 
 ---
 
